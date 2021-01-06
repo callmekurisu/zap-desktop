@@ -197,7 +197,7 @@
     "webpack-merge": "^4.1.0"
   },
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.21.1",
     "bitcoinjs-lib": "^3.2.0",
     "bitcore-lib": "^0.14.0",
     "copy-to-clipboard": "^3.0.8",
